@@ -136,6 +136,7 @@ B) iOS Game: [Introduction to iOS Game Development with SpriteKit & Swift](http:
 * [Server-side Swift Using Vapor](https://academy.realm.io/posts/try-swift-nyc-tanner-nelson-server-side-swift-using-vapor?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 <br>
+
 ### MacOS & iPhone X
 * [A Swift Transition From iOS To macOS Development – Smashing Magazine](https://www.smashingmagazine.com/2017/10/from-ios-to-macos-development?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [iPhone X: Dealing with Home Indicator](https://medium.com/the-traveled-ios-developers-guide/iphone-x-dealing-with-home-indicator-2e8e47f5647f?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
