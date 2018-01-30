@@ -17,27 +17,35 @@ If you like a version with images: [Go to our Medium link](https://medium.com/@M
 1. [Architecture ](#architecture)
 1. [Table Views ](#table-views)
 1. [Lesson Learned ](#lesson-learned)
-1. [API Design & URL Routing](#api-design-&-url-routing)
+1. [API Design & URL Routing](#api-design--url-routing)
 1. [Machine Learning ](#machine-learning)
 1. [Parallel Programming ](#parallel-programming)
 1. [Scalability ](#scalability)
 1. [Framework ](#framework)
 1. [Keywords ](#keywords)
-1. [Parsing JSON](#parsing-sSON)
+1. [Parsing JSON](#parsing-jSON)
 1. [Concurrency ](#concurrency )
 1. [Memory Management ](#memory-management )
 1. [Managing Environment ](#managing-environment )
 1. [Server-side ](#server-side)
-1. [MacOS & iPhone X](#macOS-&-iPhone X)
+1. [MacOS & iPhone X](#macOS--iPhone-X)
 1. [Game ](#game )
-1. [Kotlin & React Native](#kotlin-&-react-native)
-1. [Testing & Debugging](#testing-&-debugging)
+1. [Kotlin & React Native](#kotlin--react-native)
+1. [Testing & Debugging](#testing--debugging)
 1. [Animation ](#animation )
 1. [Reactive Programming ](#reactive-Programming )
 1. [Algorithm ](#algorithm )
 1. [Interview ](#interview )
 1. [Hacks ](#hacks )
 1. [Guide ](#guide )
+
+<br>
+
+### Recommended Learning
+
+A) Beginner: [The Complete iOS11 Swift 4 Development: Build 28 Apps. Use Xcode 9 and learn CoreML (Machine Learning) & ARKit (Artificial Reality).](http://bit.ly/2BDOD7U) [7,208 recommends, 4.7/5 stars]
+
+B) iOS Game: [Introduction to iOS Game Development with SpriteKit & Swift](http://bit.ly/2FvB4tg) [972 recommends, 4.6/5 stars]
 
 <br>
 
