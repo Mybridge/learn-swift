@@ -7,7 +7,6 @@ For Jan-Dec 2017, we compared nearly 15,000 articles about iOS Swift and picked 
 
 This is an extremely competitive list. Mybridge AI ranks articles based on the quality of content measured by our machine and a variety of human factors including the number of shares and minutes read.
 
-Open Source Swift Projects of the Year (avg. 3,727 ⭐️): Click here
 This directory is designed to make your life easier as it organizes the most useful articles by 27 key topics, where experienced programmers share their lessons working with Swift.
 
 <img src="chart.png" width="1400" alt="Mybridge"></a>
