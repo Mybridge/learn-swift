@@ -193,6 +193,7 @@ B) iOS Game: [Introduction to iOS Game Development with SpriteKit & Swift](http:
 * [iOS hacks from Twitter](https://medium.com/flawless-app-stories/best-ios-hacks-from-twitter-october-edition-ce253347f88a?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 <br>
+
 ### Guide 
 * [Swift tips & tricks](https://github.com/JohnSundell/SwiftTips/blob/master/README.md?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 * [A quick reference cheat sheet for common, high level topics in Swift.](https://github.com/iwasrobbed/Swift-CheatSheet?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
