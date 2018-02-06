@@ -130,6 +130,7 @@ B) iOS Game: [Introduction to iOS Game Development with SpriteKit & Swift](http:
 * [Make Memory Management Great Again: Swift 3 Automatic Reference Counting explained](https://medium.com/ios-geek-community/make-memory-management-great-again-f781fb29cea1?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
 <br>
+
 ### Managing Environment 
 * [Managing different environments in your Swift project with ease](https://medium.com/flawless-app-stories/manage-different-environments-in-your-swift-project-with-ease-659f7f3fb1a6?utm_source=mybridge&utm_medium=email&utm_campaign=read_more)
 
