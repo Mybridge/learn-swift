@@ -46,6 +46,8 @@ If you like a version with images: [Go to our Medium link](https://medium.com/@M
 
 ### Recommended Learning
 
+#### Affiliate links
+
 A) Beginner: [The Complete iOS11 Swift 4 Development: Build 28 Apps. Use Xcode 9 and learn CoreML (Machine Learning) & ARKit (Artificial Reality).](http://bit.ly/2BDOD7U) [7,208 recommends, 4.7/5 stars]
 
 B) iOS Game: [Introduction to iOS Game Development with SpriteKit & Swift](http://bit.ly/2FvB4tg) [972 recommends, 4.6/5 stars]
